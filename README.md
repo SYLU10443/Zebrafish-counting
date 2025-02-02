@@ -1,2 +1,2 @@
-# Zebrafish-dataset
-Capturing zebrafish with an event camera
+# Zebrafish
+Counting zebrafish with an event camera
